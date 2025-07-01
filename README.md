@@ -10,7 +10,8 @@
 
 اضغط على الزر أدناه لتشغيل النموذج مباشرة من المتصفح (دون الحاجة لتثبيت أي شيء):
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/alramady/ndmo-smart-monitoring-mvp/main/منصة_الرصد_الذكي_المصغرة/app_mvp_ndmo.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/alramady/ndmo-smart-monitoring-mvp/main/ndmo_monitoring_demo/app_mvp_ndmo.py)
+
 
 ---
 
